@@ -1,0 +1,9 @@
+.glow-heading {
+  font-weight: bold;
+  color: rgb(215, 14, 14);
+  text-shadow:
+    0 0 5px #ffff66,
+    0 0 10px #ffff66,
+    0 0 20px #ffcc00,
+    0 0 30px #ffcc00;
+}

@@ -1,0 +1,13 @@
+.aircraft-tracker {
+  background: linear-gradient(to bottom right, #5f65ff, #968bff);
+  color: white;
+  text-align: center;
+  padding: 30px;
+  min-height: 100vh;
+}
+
+input {
+  padding: 8px;
+  border-radius: 4px;
+  border: none;
+}

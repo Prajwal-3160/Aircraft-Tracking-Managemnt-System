@@ -1,0 +1,56 @@
+.aircraft-container {
+  background: linear-gradient(to right, #6a11cb, #2575fc);
+  padding: 40px;
+  text-align: center;
+  min-height: 100vh;
+  color: white;
+}
+
+.aircraft-container h2 {
+  font-size: 2.5rem;
+  margin-bottom: 30px;
+  color: #fff;
+}
+
+.input-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-bottom: 40px;
+  flex-wrap: wrap;
+}
+
+.input-container input {
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  min-width: 150px;
+  font-size: 16px;
+}
+
+.input-container button {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 25px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.aircraft-list {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.aircraft-card {
+  background-color: #d46dbb;
+  color: white;
+  font-weight: bold;
+  padding: 15px 25px;
+  width: 60%;
+  border-radius: 10px;
+  font-size: 18px;
+}
