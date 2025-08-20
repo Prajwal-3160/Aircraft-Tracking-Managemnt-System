@@ -56,4 +56,14 @@ This project allows **airline companies** and **passengers** to manage flights, 
 
  ![1  Login Page](https://github.com/user-attachments/assets/5b2d3cae-1c2b-47ed-8479-867dfbc15e02)
 ![2  Home Page](https://github.com/user-attachments/assets/cddcf3a1-bff4-44c7-9145-68cd556c4734)
+![3  Pilots Page](https://github.com/user-attachments/assets/17c4f338-c988-4595-a06f-53dcbc8cf41a)
+![4  Schedule Page](https://github.com/user-attachments/assets/5a5f53e8-4793-455b-91f8-faf2bd4ec1c9)
+![5  About Page](https://github.com/user-attachments/assets/0bc546a5-d523-40d0-bd2d-9a250424c95f)
+![6  Book Flight Page](https://github.com/user-attachments/assets/6fc42ab9-7f50-47c5-846f-ec5dace652be)
+![7  Admin Page](https://github.com/user-attachments/assets/fe259709-1ff4-47a2-bb69-8c9e8efa64e4)
+![8  Contact Page](https://github.com/user-attachments/assets/e7f0e180-806f-4dad-95d1-4dcef86ec42e)
+
+
+
+
 
