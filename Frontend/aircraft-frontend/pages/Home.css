@@ -1,0 +1,17 @@
+/* Home.css */
+
+.home-container { /* Replace .home-container with the actual class name of your home page's main div */
+  background-image: url('https://img.freepik.com/premium-photo/terminal-airplane-airport-background_87720-131514.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 100vh; /* Use min-height to ensure it covers the full viewport height even with less content */
+  /* You might need to adjust other styles based on your home page layout */
+  /* For example, if your content is centered, you might use: */
+  display: flex;
+  flex-direction: column; /* Or row, depending on your layout */
+  /* justify-content: center; */ /* Uncomment if you want to vertically center content */
+  /* align-items: center; */ /* Uncomment if you want to horizontally center content */
+}
+
+/* Add other styles specific to your home page components below */
