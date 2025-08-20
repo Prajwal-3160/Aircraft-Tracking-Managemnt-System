@@ -62,6 +62,15 @@ This project allows **airline companies** and **passengers** to manage flights, 
 ![6  Book Flight Page](https://github.com/user-attachments/assets/6fc42ab9-7f50-47c5-846f-ec5dace652be)
 ![7  Admin Page](https://github.com/user-attachments/assets/fe259709-1ff4-47a2-bb69-8c9e8efa64e4)
 ![8  Contact Page](https://github.com/user-attachments/assets/e7f0e180-806f-4dad-95d1-4dcef86ec42e)
+![9  Weather Page](https://github.com/user-attachments/assets/ceebe846-d5cd-49cd-8f51-44d29f043657)
+![9 1 Clear Weather (1)](https://github.com/user-attachments/assets/593363f7-ce15-4a55-88a0-379491733243)
+![9 1 Clear Weather (2)](https://github.com/user-attachments/assets/f0141982-644f-4f2a-a1e0-35b76095f8d1)
+![9 1 Clear Weather (3)](https://github.com/user-attachments/assets/685c0e25-5f82-4101-ae05-e8a4b2eafd73)
+![9 1 Clear Weather (4)](https://github.com/user-attachments/assets/cb85b5c6-0fe6-4507-a5dd-3dff4048f54e)
+
+
+
+
 
 
 
