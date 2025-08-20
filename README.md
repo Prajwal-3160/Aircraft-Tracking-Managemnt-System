@@ -55,4 +55,5 @@ This project allows **airline companies** and **passengers** to manage flights, 
    git clone https://github.com/your-username/Aircraft-Tracking-System.git
 
  ![1  Login Page](https://github.com/user-attachments/assets/5b2d3cae-1c2b-47ed-8479-867dfbc15e02)
+![2  Home Page](https://github.com/user-attachments/assets/cddcf3a1-bff4-44c7-9145-68cd556c4734)
 
